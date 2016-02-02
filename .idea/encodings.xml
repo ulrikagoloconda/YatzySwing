@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/Model/Box.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/View/DiceView.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/View/GamePanel.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/View/PlayerPanel.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/View/StartFrame.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/View/SumLabel.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/View/TextPageStartArea.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/View/WinPanel.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/View/YCheckBox.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/View/YLabel.java" charset="UTF-8" />
+  </component>
+</project>
